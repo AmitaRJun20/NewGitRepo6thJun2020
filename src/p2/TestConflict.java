@@ -6,7 +6,7 @@ public class TestConflict {
 		System.out.println("In Conflict Branch A");
 		System.out.println("In Conflict Branch A using While loop");
 		System.out.println("In Conflict Branch B using for loop");
-		System.out.println("500+500");
+		System.out.println("100*100*100");
 	}
 
 }
